@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1",
+    "name": "Air Jordan 1 Retro High OG",
+    "style": "Flight Club",
+    "price": 1899.99,
+    "description": "O lendário Air Jordan 1 Retro High OG em colorway Flight Club. Couro premium em preto com detalhes em vermelho e solado gum, reedição fiel ao original de 1985. Um ícone atemporal da cultura sneaker.",
+    "sku": "DZ5485-016",
+    "status": "disponivel",
+    "images": [
+      "/images/aj1-flight-club-1.png",
+      "/images/aj1-flight-club-2.png"
+    ]
+  },
+    {
+    "id": "2",
+    "name": "nike-air-force-1-07",
+    "style": "Flight Club",
+    "price": 799.99,
+    "description": "O Air Force 1 combina um estilo clássico ao material premium, oferecendo um visual elegante e simples..",
+    "sku": "DW5485-087",
+    "status": "disponivel",
+    "images": [
+      "/images/nike-air-force-1-07-1.png",
+      "/images/nike-air-force-1-07-2.png"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Air Jordan 3 Feminino Branco e Laranja",
+    "style": "Retro High",
+    "price": 1299.99,
+    "description": "Limpo e impecável, o AJ3 retorna com um toque cítrico. O cabedal em couro branco apresenta sobreposições com estampa de elefante e detalhes em tons de leite de coco e laranja.",
+    "sku": "DZ5485-100",
+    "status": "disponivel",
+    "images": [
+      "/images/aj3-white-orange-1.png",
+      "/images/aj3-white-orange-2.png"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Air Max 90",
+    "style": "Running",
+    "price": 1299.99,
+    "description": "O Air Max 90 permanece fiel às suas raízes de corrida com a icônica sola Waffle, enquanto as sobreposições costuradas e os detalhes texturizados criam o visual dos anos 90 que você adora.",
+    "sku": "DZ5485-090",
+    "status": "disponivel",
+    "images": [
+      "/images/airmax90-1.png",
+      "/images/airmax90-2.png"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Tatum 4",
+    "style": "Basketball",
+    "price": 1499.99,
+    "description": "O Tatum 4 continua a entregar resultados, ajudando você a vencer sem sacrificar um único grama de estilo. Cortes rápidos e movimentos dinâmicos exigem contenção, e o Tatum 4 chega com seu cabedal reforçado. Se você tem estabilidade, agora adquira o W.",
+    "sku": "DZ5485-TAT4",
+    "status": "disponivel",
+    "images": [
+      "/images/tatum4-1.png",
+      "/images/tatum4-2.png"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Nike SB Dunk Low Lightening e Denim Turquoise",
+    "style": "Skate",
+    "price": 899.99,
+    "description": "Você sempre pode contar com um clássico, e este modelo se inspira em pontos turísticos e instituições icônicas de São Francisco.",
+    "sku": "DZ5485-DL-TQ",
+    "status": "disponivel",
+    "images": [
+      "/images/sbdunk-turquoise-1.png",
+      "/images/sbdunk-turquoise-2.png"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Air Max Ishod Premium Volt e Preto",
+    "style": "Skate",
+    "price": 1199.99,
+    "description": "Inspirado em elementos icônicos dos tênis de basquete dos anos 90, o Air Max Ishod foi projetado com toda a durabilidade que você precisa para andar de skate com tudo.",
+    "sku": "DZ5485-ISHOD",
+    "status": "disponivel",
+    "images": [
+      "/images/ishod-volt-black-1.png",
+      "/images/ishod-volt-black-2.png"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Shox R4 Verde Nobre e Verde Kelly",
+    "style": "Running",
+    "price": 1399.99,
+    "description": "Fazendo sua estreia ousada em 2000, o Shox R4 quebrou o molde dos tênis tradicionais com seu visual futurista.",
+    "sku": "DZ5485-SHOX",
+    "status": "disponivel",
+    "images": [
+      "/images/shoxr4-green-1.png",
+      "/images/shoxr4-green-2.png"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Baltoro",
+    "style": "Outdoor",
+    "price": 1599.99,
+    "description": "Estamos trazendo de volta o Baltoro com seu estilo robusto para atividades ao ar livre que é típico dos anos 90. Combinamos suede e tecidos para criar um calçado de cano alto texturizado que está pronto para enfrentar qualquer desafio.",
+    "sku": "DZ5485-BALTORO",
+    "status": "disponivel",
+    "images": [
+      "/images/baltoro-1.png",
+      "/images/baltoro-2.png"
+    ]
+  }
+]
