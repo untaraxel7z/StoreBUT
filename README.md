@@ -4,6 +4,8 @@ Sistema web REST desenvolvido para gerenciamento e vendas de tênis (sneakers), 
 
 Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS).
 Dashboard:
+
+https://github.com/users/untaraxel7z/projects/2
 <img width="1459" height="794" alt="image" src="https://github.com/user-attachments/assets/ad71a28b-df53-413a-bf35-7e20b7a303de" />
 
 
