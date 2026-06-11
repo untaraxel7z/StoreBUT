@@ -1,4 +1,4 @@
-<img width="1459" height="794" alt="image" src="https://github.com/user-attachments/assets/7a46fbd3-29da-42a4-ac9c-c02d50562233" />#  AURO
+#  AURO
 
 Sistema web REST desenvolvido para gerenciamento e vendas de tênis (sneakers), permitindo aos clientes navegar e comprar produtos, enquanto administradores gerenciam catálogo, preços, imagens e disponibilidade.
 
