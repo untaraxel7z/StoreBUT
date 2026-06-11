@@ -1,4 +1,4 @@
-# 👟 SNKRS
+#  AURO
 
 Sistema web REST desenvolvido para gerenciamento e vendas de tênis (sneakers), permitindo aos clientes navegar e comprar produtos, enquanto administradores gerenciam catálogo, preços, imagens e disponibilidade.
 
@@ -10,7 +10,7 @@ Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 | Nome | RA | Cargo |
 |------|----|----|
-| Kaue Mata | 2402317 | Desenvolvedor Fullstack |
+| Izaias Santos Menezes | 2401313 | Desenvolvedor Fullstack |
 
 ---
 
